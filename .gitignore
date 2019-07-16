@@ -1,8 +1,6 @@
-#my folder
 /.metadata/
 /.metadata/*
 
-# Add by CK
 **.settings**
 **.classpath
 **target
@@ -29,5 +27,7 @@
 *.zip
 *.tar.gz
 *.rar
+*.mymetadata
 ./idea/**
 ./idea/
+**/bin/**
