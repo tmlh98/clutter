@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title></title>
+    </head>
+    <script type="application/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mustache.js/3.0.1/mustache.js"></script>
+ 
+    <body>
+        <div id="user_info"></div>
+    </body>
+    <script type="text/tmplate" id="tmplate">
+        <div>
+            <ul>
+                <li>姓名：{{name}}</li>
+                <li>年龄：{{age}}</li>
+                <li>电话：{{phone}}</li>
+            </ul>
+        </div>
+    </script>
+ 
+    <script type="application/javascript">
+        //实例参数
+        var user = { name: "xiaoming", age: 23, phone: "15932582632"};
+        //模板
+        var template = document.getElementById("tmplate").innerHTML;
+        alert(template);
+
+
+        //使用mustache.js进行模板解析填充数据
+        var view = Mustache.render(template, user);
+ 
+        document.getElementById("user_info").innerHTML = view;
+    </script>
+</html>
