@@ -4,7 +4,7 @@ public class 八皇后 {
 	
 	static int count = 0;//计算总数
 	
-	static final int QUEEN = 4;//8个皇后
+	static final int QUEEN = 8;//8个皇后
 	
 	static int[] cols = new int [QUEEN];//定义cols数组，表示8列棋子皇后摆放的位置
 	
