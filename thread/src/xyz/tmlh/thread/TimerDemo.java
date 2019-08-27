@@ -21,6 +21,5 @@ public class TimerDemo {
             }
         }, 1000 , 1000);
         
-        
     }
 }
