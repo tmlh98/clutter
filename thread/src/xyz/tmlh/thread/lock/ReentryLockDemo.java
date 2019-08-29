@@ -15,7 +15,7 @@ public class ReentryLockDemo {
             reentryLock.a();
         }) .start();
         
-        
+        //--------------------------------------------------------------------------
         // 锁住同一个对象时 ， 后面一个线程会等待前一个线程释放锁
         ReentryLockDemo reentryLock = new ReentryLockDemo();
         new Thread(() -> {

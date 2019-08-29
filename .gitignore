@@ -2,9 +2,9 @@
 /.metadata/*
 
 **.settings**
-**.classpath
+#**.classpath
 **target
-**.project
+#**.project
 **.iml
 
 # Compiled class file

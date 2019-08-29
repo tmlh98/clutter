@@ -31,7 +31,7 @@ public class DeathLockDemo {
                 e.printStackTrace();
             }
             synchronized (obj1) {
-                System.out.println("b()");ss
+                System.out.println("b()");
             }
         }
     }

@@ -1,8 +1,6 @@
 package xyz.tmlh.thread.lock;
 
 import java.util.Random;
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
 
 /**
  * 自选测试
