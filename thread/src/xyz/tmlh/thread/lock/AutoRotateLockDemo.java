@@ -3,7 +3,7 @@ package xyz.tmlh.thread.lock;
 import java.util.Random;
 
 /**
- * 自选测试
+ * 自旋测试
  * 
  * @Author TianXin
  * @Date 2019年8月27日
