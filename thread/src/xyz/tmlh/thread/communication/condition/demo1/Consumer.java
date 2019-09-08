@@ -1,22 +1,22 @@
-package xyz.tmlh.thread.communication;
+package xyz.tmlh.thread.communication.condition.demo1;
 
 import java.util.concurrent.TimeUnit;
 
-/**
- * 生产者模型
+/** 
+ *  消费者模型
  */
-public class Producer implements Runnable {
+public class Consumer implements Runnable{
 
     private Product product;
-
-    public Producer(Product product) {
+    
+    public Consumer(Product product){
         this.product = product;
     }
-
+    
     @Override
     public void run() {
-        while (true) {
-            product.production();
+        while(true) {
+            product.consume();
             try {
                 TimeUnit.SECONDS.sleep(1);
             } catch (InterruptedException e) {

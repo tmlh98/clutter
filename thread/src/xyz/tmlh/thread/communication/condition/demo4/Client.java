@@ -1,4 +1,5 @@
-package xyz.tmlh.thread.communication;
+package xyz.tmlh.thread.communication.condition.demo4;
+
 
 /**
  *
@@ -14,11 +15,7 @@ public class Client {
         
         new Thread(producer).start();
         new Thread(producer).start();
-        new Thread(producer).start();
         new Thread(consumer).start();
-        new Thread(consumer).start();
-        
-        
         
     }
 }

@@ -1,4 +1,4 @@
-package xyz.tmlh.thread.communication;
+package xyz.tmlh.thread.communication.condition.demo1;
 
 /** 
  *  产品
