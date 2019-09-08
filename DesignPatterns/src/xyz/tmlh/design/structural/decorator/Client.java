@@ -1,10 +1,5 @@
 package xyz.tmlh.design.structural.decorator;
 
-/**
- *
- * @Author TianXin
- * @Date 2019年9月8日
- */
 public class Client {
     public static void main(String[] args) {
 
