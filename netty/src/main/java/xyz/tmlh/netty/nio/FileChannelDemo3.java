@@ -29,8 +29,6 @@ public class FileChannelDemo3 {
         ByteBuffer buffer = ByteBuffer.allocate(1024);
         while (true){
             int read = fisChannel.read(buffer);
-            System.out.println("read: " + read);
-
             if(read == -1){
                 break;
             }

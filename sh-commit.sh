@@ -1,16 +1,12 @@
 #!/bash/bin
 MSG=$1
 
-if [ ! -n "$MSG"]; then
-	MSG="."
-fi
-
 git add .
 
 
 echo '----------(git add )---------'
 
-git commit -m "$MSG"
+git commit -m "."
 
 
 echo '----------(git commit )---------'
