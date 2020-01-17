@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b41a064-f849-4f17-9a18-f285142e9508" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/xyz/tmlh/netty/examples/client/GroupChatClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/xyz/tmlh/netty/examples/serve/EventHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/xyz/tmlh/netty/examples/serve/GroupChatServe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/xyz/tmlh/nio/GroupChartTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/xyz/tmlh/netty/nio/FileChannelDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/xyz/tmlh/netty/nio/FileChannelDemo3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/xyz/tmlh/nio/NIOClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/xyz/tmlh/nio/NIOServer.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -29,44 +20,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/xyz/tmlh/nio/GroupChartTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/xyz/tmlh/netty/examples/serve/GroupChatServe.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="62" selection-start-line="62" selection-end-line="62" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/xyz/tmlh/netty/examples/serve/EventHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="60" column="58" selection-start-line="60" selection-start-column="58" selection-end-line="60" selection-end-column="58" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -89,7 +43,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/xyz/tmlh/netty/bio/BIOServe.java" />
         <option value="$PROJECT_DIR$/src/main/java/xyz/tmlh/netty/nio/FileChannelDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/xyz/tmlh/netty/nio/FileChannelDemo2.java" />
@@ -110,6 +63,7 @@
         <option value="$PROJECT_DIR$/src/main/java/xyz/tmlh/netty/examples/client/GroupChatClient.java" />
         <option value="$PROJECT_DIR$/src/test/java/xyz/tmlh/nio/GroupChartTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/xyz/tmlh/netty/examples/serve/EventHandler.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -130,7 +84,7 @@
   <component name="MavenRunner">
     <option name="jreName" value="#JAVA_HOME" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1637" />
@@ -182,46 +136,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="netty" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="netty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="netty" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="netty" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="netty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="netty" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="netty" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
-              <item name="serve" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="netty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="netty" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="netty" type="462c0819:PsiDirectoryNode" />
-              <item name="nio" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="netty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="netty" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="netty" type="462c0819:PsiDirectoryNode" />
-              <item name="nio" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
+              <item name="bio" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="netty" type="b2602c69:ProjectViewProjectNode" />
@@ -255,16 +170,16 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579163803265" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579228686096" />
     <property name="extract.method.default.visibility" value="packageLocal" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../thread" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsDialog.application.dockerMachine" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -373,8 +288,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.GroupChartTest.testClient" />
-        <item itemvalue="Application.GroupChartTest" />
         <item itemvalue="JUnit.GroupChartTest.testServe" />
+        <item itemvalue="Application.GroupChartTest" />
         <item itemvalue="JUnit.GroupChartTest.test" />
         <item itemvalue="Application.GroupChatClient" />
       </list>
@@ -400,23 +315,11 @@
       <workItem from="1579144488750" duration="275000" />
       <workItem from="1579144792622" duration="560000" />
       <workItem from="1579145386832" duration="5893000" />
-      <workItem from="1579158205137" duration="5518000" />
+      <workItem from="1579158205137" duration="9121000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GroupChartTest_testServe - 2020.01.16 at 16h 27m 17s.xml">
-      <configuration name="GroupChartTest.testServe" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GroupChartTest_testClient - 2020.01.16 at 16h 27m 19s.xml">
-      <configuration name="GroupChartTest.testClient" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GroupChartTest_testClient - 2020.01.16 at 16h 27m 21s.xml">
-      <configuration name="GroupChartTest.testClient" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GroupChartTest_testClient - 2020.01.16 at 16h 27m 23s.xml">
-      <configuration name="GroupChartTest.testClient" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="GroupChartTest_testServe - 2020.01.16 at 16h 27m 46s.xml">
       <configuration name="GroupChartTest.testServe" configurationId="JUnit" />
     </history-entry>
@@ -435,15 +338,26 @@
     <history-entry file="GroupChartTest_testServe - 2020.01.16 at 16h 34m 36s.xml">
       <configuration name="GroupChartTest.testServe" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="GroupChartTest_testClient - 2020.01.16 at 16h 37m 04s.xml">
+      <configuration name="GroupChartTest.testClient" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GroupChartTest_testServe - 2020.01.16 at 16h 37m 04s.xml">
+      <configuration name="GroupChartTest.testServe" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GroupChartTest_testClient - 2020.01.17 at 10h 37m 56s.xml">
+      <configuration name="GroupChartTest.testClient" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GroupChartTest_testServe - 2020.01.17 at 10h 37m 56s.xml">
+      <configuration name="GroupChartTest.testServe" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29346000" />
+    <option name="totallyTimeSpent" value="32949000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.18329719" visible="true" weight="0.30383795" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.18329719" visible="true" weight="0.2153518" />
       <window_info id="Structure" order="1" sideWeight="0.81670284" side_tool="true" weight="0.30383795" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -452,7 +366,7 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3362256" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35357916" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.5520607" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -565,13 +479,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/xyz/tmlh/netty/nio/FileChannelDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -618,16 +525,6 @@
           <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="method#main#0;class#ScatteringAndGatheringTest#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/xyz/tmlh/netty/bio/BIOServe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -722,16 +619,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/xyz/tmlh/nio/GroupChartTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/xyz/tmlh/netty/examples/serve/GroupChatServe.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
@@ -752,12 +639,100 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/.m2/repository/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-375">
+          <caret line="48" column="30" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final.jar!/io/netty/channel/ChannelOutboundInvoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final.jar!/io/netty/channel/Channel.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="62" selection-start-line="12" selection-start-column="62" selection-end-line="12" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final.jar!/io/netty/channel/DefaultChannelProgressivePromise.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final.jar!/io/netty/channel/ChannelProgressivePromise.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final.jar!/io/netty/channel/ChannelInboundInvoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final.jar!/io/netty/channel/ChannelConfig.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/xyz/tmlh/nio/GroupChartTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#testClient#0;class#GroupChartTest#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/xyz/tmlh/netty/bio/BIOServe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-656">
+          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>
